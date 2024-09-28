@@ -2,7 +2,7 @@
 Use [TypeScript](https://www.typescriptlang.org) to make your code more robust
 
 ## Pnpm
-It's time to give up `npm` and `yarn` and switch to `pnpm` as package manager
+It's time to give up `npm` and `yarn` and switch to `pnpm` as your package manager
 
 ## TypeScript
 The [typescript](https://www.npmjs.com/package/typescript) package provides the `tsc` command to compile your TypeScript code to Common JavaScript code. Configured by [tsconfig.json](tsconfig.json)

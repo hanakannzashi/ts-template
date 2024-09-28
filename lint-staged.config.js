@@ -1,3 +1,3 @@
 module.exports = {
-  '*.ts': () => ['pnpm lint', 'pnpm prettier', 'pnpm check'],
+  '*.(ts|js)': () => ['pnpm lint', 'pnpm prettier', 'pnpm check'],
 };
