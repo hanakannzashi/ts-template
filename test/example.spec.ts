@@ -1,5 +1,5 @@
-import { doYouLikeTypeScript } from '../src/main';
+import { doYouLikeTypeScript, YesOrNo } from '../src/example';
 
 test('Do You Like TypeScript', () => {
-  expect(doYouLikeTypeScript()).toEqual('Yes');
+  expect<YesOrNo>(doYouLikeTypeScript()).toEqual<YesOrNo>('Yes');
 });
