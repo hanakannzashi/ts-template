@@ -19,8 +19,8 @@ The `lint-staged` package allows you to run lint tasks on staged files. Configur
 ## Husky
 The `husky` package allows you to manage Git hooks via shells. Configured by [.husky](.husky)
 
-## TS Node
-The `ts-node` package allows you to execute TypeScript code directly without explicitly compiling the code
-
 ## Jest
 The `ts-jest`, `jest`, `@types/jest` packages provide convenient testing tools. Configured by [jest.config.json](jest.config.json)
+
+## TS Node
+The `ts-node` package allows you to execute TypeScript code directly without explicitly compiling the code
